@@ -1,5 +1,8 @@
 # alg-CTF
 ## CTFのいろはを学べるリポジトリ
+### 準備
+- picoCTF(https://picoctf.org/)への登録
+- Virtual BoxやWSLなどLinuxのコマンドが動かせる環境(Virtual Boxを使ったUbuntuの導入方法は後に追記)
 ### 使い方
 1. このリポジトリをcloneしましょう。
 ```
